@@ -3,6 +3,14 @@ import java.util.*;
 
 public class Reversal {
 	
+	public static void main(String[] args){
+		
+		File inputFile = new File("/Volumes/KAYLER_DOCS/480/Reversal/src/cat.txt");
+		File outputFile = new File("/Volumes/KAYLER_DOCS/480/Reversal/src/catOut.txt");
+		reverseFile(inputFile, outputFile);
+		
+	}
+	
 	public static void reverseFile(File input, File output){
 		try {
 			FileReader read = new FileReader(input);
@@ -11,9 +19,10 @@ public class Reversal {
 			
 			ArrayList<String> words = new ArrayList<String>();
 			
-			String nextLine = bread.readLine();
-			while(nextLine != null) {
-				words.add(bread.readLine());
+			String nextLine;
+			while((nextLine = bread.readLine()) != null) {
+				words.add(nextLine);
+				System.out.println(bread.readLine());
 			}
 			
 			for(int i=words.size()-1;i>=0;i--) {
@@ -25,6 +34,8 @@ public class Reversal {
 				}
 			}
 
+			read.close();
+			bread.close();
 			writeOut.close();
 			
 		}

@@ -1,95 +1,14 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red217\green220\blue235;}
-\margl1440\margr1440\vieww16040\viewh13980\viewkind0
-\deftab720
-\pard\pardeftab720
-
-\f0\b\fs24 \cf0 \cb2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec3 T\cb1 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 he Phoenix and the Turtle\
-Let the bird of loudest lay\
-On the sole Arabian tree,\
-Herald sad and trumpet be,\
-To whose sound chaste wings obey.\
-But thou shrieking harbinger,\
-Foul precurrer of the fiend,\
-Augur of the fever's end,\
-To this troop come thou not near.\
-\
-From this session interdict\
-Every fowl of tyrant wing\
-Save the eagle, feather'd king:\
-Keep the obsequy so strict.\
-\
-Let the priest in surplice white\
-That defunctive music can,\
-Be the death-divining swan,\
-Lest the requiem lack his right.\
-\
-And thou, treble-dated crow,\
-That thy sable gender mak'st\
-With the breath thou giv'st and tak'st,\
-'Mongst our mourners shalt thou go.\
-\
-Here the anthem doth commence:\'97\
-Love and constancy is dead;\
-Phoenix and the turtle fled\
-In a mutual flame from hence.\
-\
-So they loved, as love in twain\
-Had the essence but in one;\
-Two distincts, division none;\
-Number there in love was slain.\
-\
-Hearts remote, yet not asunder;\
-Distance, and no space was seen\
-'Twixt the turtle and his queen:\
-But in them it were a wonder.\
-\
-So between them love did shine,\
-That the turtle saw his right\
-Flaming in the phoenix' sight;\
-Either was the other's mine.\
-\
-Property was thus appall'd,\
-That the self was not the same;\
-Single nature's double name\
-Neither two nor one was call'd.\
-\
-Reason, in itself confounded,\
-Saw division grow together;\
-To themselves yet either neither;\
-Simple were so well compounded,\
-\
-That it cried, 'How true a twain\
-Seemeth this concordant one!\
-Love hath reason, reason none\
-If what parts can so remain.'\
-\
-Whereupon it made this threne\
-To the phoenix and the dove,\
-Co-supremes and stars of love,\
-As chorus to their tragic scene.\
-\
-THRENOS\
-\
-BEAUTY, truth, and rarity,\
-Grace in all simplicity,\
-Here enclosed in cinders lie.\
-\
-Death is now the phoenix' nest;\
-And the turtle's loyal breast\
-To eternity doth rest,\
-\
-Leaving no posterity:\
-'Twas not their infirmity,\
-It was married chastity.\
-\
-Truth may seem, but cannot be;\
-Beauty brag, but 'tis not she;\
-Truth and beauty buried be.\
-\
-To this urn let those repair\
-That are either true or fair;\
-For these dead birds sigh a prayer.}
+That time of year thou mayst in me behold
+When yellow leaves, or none, or few, do hang 
+Upon those boughs which shake against the cold,
+Bare ruin’d choirs, where late the sweet birds sang.
+In me thou seest the twilight of such day
+As after sunset fadetn in the west,
+Which by and by black night doth take away,
+Death ‘s second self, that seals up all in rest.
+In me thou seeest the glowing of such fire,
+That on the ashes of his youth doth  lie,
+As the death-bed whereon it must expire,
+Consum’d with that which it was nourish’d by.
+This thou perceiv’st which makes thy love more strong,
+To love that well which thou must leave ere long:

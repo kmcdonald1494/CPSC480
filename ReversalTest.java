@@ -3,44 +3,45 @@ import java.io.*;
 import org.junit.*;
 
 public class ReversalTest {
-
+	File curDir = new File("");
+	
 	@Test
 	public void test01() throws IOException {
-		final File expected = new File("expectedCatOut.txt");
-		final File output = new File("actualCatOut.txt");
-		final File input = new File("cat.txt");
+		final File expected = new File(curDir.getAbsolutePath() + "\\src\\expectedCatOut.txt");
+		final File output = new File(curDir.getAbsolutePath() + "\\src\\actualCatOut.txt");
+		final File input = new File(curDir.getAbsolutePath() + "\\src\\cat.txt");
 		Reversal.reverseFile(input, output);
-		boolean same = testEquals(input, output);
+		boolean same = testEquals(expected, output);
 		Assert.assertTrue("Files are not the same.", same);
 	}
 	
 	@Test
 	public void test02() throws IOException {
-		final File expected = new File("expectedChaosOut.txt");
-		final File output = new File("actualChaosOut.txt");
-		final File input = new File("chaos.txt");
+		final File expected = new File(curDir.getAbsolutePath() + "\\src\\expectedChaosOut.txt");
+		final File output = new File(curDir.getAbsolutePath() + "\\src\\actualChaosOut.txt");
+		final File input = new File(curDir.getAbsolutePath() + "\\src\\chaos.txt");
 		Reversal.reverseFile(input, output);
-		boolean same = testEquals(input, output);
+		boolean same = testEquals(expected, output);
 		Assert.assertTrue("Files are not the same.", same);
 	}
 	
 	@Test
 	public void test03() throws IOException {
-		final File expected = new File("expectedShakespeareOut.txt");
-		final File output = new File("actualShakespeareOut.txt");
-		final File input = new File("shakespeare.txt");
+		final File expected = new File(curDir.getAbsolutePath() + "\\src\\expectedShakespeareOut.txt");
+		final File output = new File(curDir.getAbsolutePath() + "\\src\\actualShakespeareOut.txt");
+		final File input = new File(curDir.getAbsolutePath() + "\\src\\shakespeare.txt");
 		Reversal.reverseFile(input, output);
-		boolean same = testEquals(input, output);
+		boolean same = testEquals(expected, output);
 		Assert.assertTrue("Files are not the same.", same);
 	}
 	
 	@Test
 	public void test04() throws IOException {
-		final File expected = new File("expectedShelOut.txt");
-		final File output = new File("actualShelOut.txt");
-		final File input = new File("shel.txt");
+		final File expected = new File(curDir.getAbsolutePath() + "\\src\\expectedShelOut.txt");
+		final File output = new File(curDir.getAbsolutePath() + "\\src\\actualShelOut.txt");
+		final File input = new File(curDir.getAbsolutePath() + "\\src\\shel.txt");
 		Reversal.reverseFile(input, output);
-		boolean same = testEquals(input, output);
+		boolean same = testEquals(expected, output);
 		Assert.assertTrue("Files are not the same.", same);
 	}
 	
